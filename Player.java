@@ -2,9 +2,9 @@
 public class Player extends CharacterTmp {
     // コンストラクタ
     Player() {
-        name = "ああああ";
-        hp = 20;
-        attack = 3;
+        name = "とろ";
+        hp = 120;
+        attack = 1f;
         speed = 3;
         isLive = true;
     }
