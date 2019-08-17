@@ -2,10 +2,10 @@ public class Enemy extends CharacterTmp {
 
     // コンストラクタ
     Enemy() {
-        name = "スライム";
+        name = "メタルスライム";
         hp = 12;
         attack = 2;
-        speed = 4;
+        speed = 10;
         isLive = true;
     }
 
